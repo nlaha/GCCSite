@@ -39,12 +39,15 @@ const IndexPage = () => (
             <h3>House Match</h3>
           </header>
           <blockquote>
-            More info soon...
+            "A twist on the match 3 genre with fast paced strategic gameplay."
             <br></br>
-            Credit: Ben Caffee
+            Credit:
+            <a href="https://github.com/bcaffee">Ben Caffee</a>
             <br></br>
             <br></br>
-            <button href="">Check it out</button>
+            <button href="https://www.instagram.com/frogrockstudio/">
+              Check it out
+            </button>
             <br></br>
           </blockquote>
         </section>
