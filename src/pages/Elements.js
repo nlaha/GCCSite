@@ -39,7 +39,7 @@ const IndexPage = () => (
             <h3>House Match</h3>
           </header>
           <blockquote>
-            "A twist on the match 3 genre with fast paced strategic gameplay."
+            "A twist on the match 3 genre with fast paced strategic gameplay. Release on App Store and Google Play very soon!"
             <br></br>
             Credit:
             <a href="https://github.com/bcaffee">Ben Caffee</a>
