@@ -16,67 +16,62 @@ const IndexPage = () => (
 
     <div id="main">
       <header className="major container medium">
-        <h2>
-          We conduct experiments that
-          <br />
-          may or may not seriously
-          <br />
-          break the universe
-        </h2>
+        <h2>Game Development</h2>
+        <h2>Programming</h2>
+        <h2>Graphic Art</h2>
       </header>
 
       <div className="box alt container">
         <section className="feature left">
-          <a href="/#" className="image icon fa-signal">
+          <a href="/#" className="image icon fa-code">
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-            <h3>The First Thing</h3>
+            <h3>A Place for All Computing</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              GCC Provides a place for people of all skill levels to meet and
+              share ideas about programming, art and much more!
             </p>
           </div>
         </section>
         <section className="feature right">
-          <a href="/#" className="image icon fa-code">
+          <a href="/#" className="image icon fa-desktop">
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-            <h3>The Second Thing</h3>
+            <h3>Project Idea?</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              Do you have an idea for an app, game or programming project but
+              don't know where to start? At GCC, we're always looking for
+              interesting ideas and will do our best to help out.
             </p>
           </div>
         </section>
         <section className="feature left">
-          <a href="/#" className="image icon fa-mobile">
+          <a href="/#" className="image icon fa-comments">
             <img src={pic3} alt="" />
           </a>
           <div className="content">
-            <h3>The Third Thing</h3>
+            <h3>Join GCC</h3>
             <p>
-              Vitae natoque dictum etiam semper magnis enim feugiat amet
-              curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              The best way to get involved with GCC is to join our Microsoft
+              Teams group. More information will be posted about that as the
+              school year starts.
             </p>
           </div>
         </section>
       </div>
 
       <footer className="major container medium">
-        <h3>Get shady with this starter</h3>
+        <h3>Club Archive</h3>
         <p>
-          There is also elements page in this template. Click below button to
-          check
+          Make something cool in GCC? We'll show it off on our club project
+          page!
         </p>
         <ul className="actions special">
           <li>
             <Link to="/Elements" className="button">
-              View Elements
+              Projects
             </Link>
           </li>
         </ul>

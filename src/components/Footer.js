@@ -6,12 +6,10 @@ export default function Footer() {
     <div id="footer">
       <div className="container medium">
         <header className="major last">
-          <h2>Questions or comments?</h2>
+          <h2>Contact</h2>
         </header>
 
-        <p>Life will feel it is always a great time to chat</p>
-
-        <ContactForm />
+        <p>Visit our social media to get in touch!</p>
 
         <ul className="icons">
           {config.socialLinks.map(social => {
@@ -27,9 +25,9 @@ export default function Footer() {
         </ul>
 
         <ul className="copyright">
-          <li>&copy; Directive. All rights reserved.</li>
+          <li>&copy; Nathan Laha. All rights reserved.</li>
           <li>
-            Design: <a href="http://html5up.net">HTML5 UP</a>
+            Design: <a href="http://html5up.net">HTML5 UP</a> and Nathan Laha
           </li>
         </ul>
       </div>
