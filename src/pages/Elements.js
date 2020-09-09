@@ -30,9 +30,9 @@ const IndexPage = () => (
             <a href="https://nlaha.com">Nathan Laha</a> & Ransom Miller
             <br></br>
             <br></br>
-            <button>
-              <a href="https://map.nlaha.com/">Check it out</a>
-            </button>
+              <a href="https://map.nlaha.com/">
+                Check it out
+              </a>
             <br></br>
           </blockquote>
         </section>
@@ -47,11 +47,9 @@ const IndexPage = () => (
             <a href="https://github.com/bcaffee">Ben Caffee</a>
             <br></br>
             <br></br>
-            <button>
               <a href="https://www.instagram.com/frogrockstudio/">
                 Check it out
               </a>
-            </button>
             <br></br>
           </blockquote>
         </section>
