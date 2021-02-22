@@ -20,6 +20,13 @@ const IndexPage = () => (
         <h2>Programming</h2>
         <h2>Graphic Art</h2>
       </header>
+      <ul className="actions special">
+        <li>
+          <a href="http://bit.ly/BHS_ComputingClub" className="button">
+            Join us on Teams!
+          </a>
+        </li>
+      </ul>
 
       <div className="box alt container">
         <section className="feature left">
