@@ -41,13 +41,13 @@ const IndexPage = () => (
             <h3>House Match</h3>
           </header>
           <blockquote>
-            "A twist on the match 3 genre with fast paced strategic gameplay. Release on App Store and Google Play very soon!"
+            "A twist on the match 3 genre with fast paced strategic gameplay. Released on App Store and Google Play!"
             <br></br>
             Credit:
             <a href="https://github.com/bcaffee">Ben Caffee</a>
             <br></br>
             <br></br>
-              <a href="https://www.instagram.com/frogrockstudio/">
+              <a href="https://www.frogrockstudio.com/house-match/">
                 Check it out
               </a>
             <br></br>
